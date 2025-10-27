@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section provides the schedule of course topics and activities.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -78,7 +76,7 @@ Actividad: Descarga ilegal
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Discusión sobre la película _[Sleep Dealer](http://www.sleepdealer.com/)_. Directed by Alex Rivera. 2008. Maya Entertainment, 2008. Streaming. 
+Discusión sobre la película _{{% resource_link "4c0645e6-87f4-4729-9817-0d5429b692c9" "Sleep Dealer" %}}_. Directed by Alex Rivera. 2008. Maya Entertainment, 2008. Streaming. 
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,7 +157,7 @@ Discusión y debate sobre la manipulación genética. "Nosotros, no"
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Cuento: "[Los Dos Reyes y Los Dos Laberintos](http://www.ciudadseva.com/textos/cuentos/esp/borges/los_dos_reyes_y_los_dos_laberintos.htm)", Jorge Luis Borges y debate sobre los casos
+Cuento: "{{% resource_link "b28f6085-c974-4e3a-9d97-a72aaa4a06d0" "Los Dos Reyes y Los Dos Laberintos" %}}", Jorge Luis Borges y debate sobre los casos
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -168,7 +166,7 @@ Cuento: "[Los Dos Reyes y Los Dos Laberintos](http://www.ciudadseva.com/textos/c
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Discusión sobre _[Abre Los Ojos](http://www.imdb.com/title/tt0125659/)._ Directed by Alejandro Amenábar. 1997. Canal + España. DVD.
+Discusión sobre _{{% resource_link "b5b561dd-da83-4992-95aa-14d658ea1452" "Abre Los Ojos" %}}._ Directed by Alejandro Amenábar. 1997. Canal + España. DVD.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -195,7 +193,7 @@ Actividad: {{< anchor "Madre_Tierra" >}}{{< /anchor >}}{{% resource_link ce57bbf
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Resultados del concurso y "[Baby, H. P.](https://ciudadseva.com/texto/baby-h-p/)" Juan José Arreola
+Resultados del concurso y "{{% resource_link "82373ed6-42a1-4198-be63-1686b738094c" "Baby, H. P." %}}" Juan José Arreola
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,7 +202,7 @@ Resultados del concurso y "[Baby, H. P.](https://ciudadseva.com/texto/baby-h-p/)
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Actividad de simulación: [Central hidroeléctrica Inambari](http://www.smithsonianmag.com/people-places/a-mega-dam-dilemma-in-the-amazon-270961/?no-ist)
+Actividad de simulación: {{% resource_link "fe2afb5a-1855-448a-ab44-68205251316e" "Central hidroeléctrica Inambari" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -213,7 +211,7 @@ Actividad de simulación: [Central hidroeléctrica Inambari](http://www.smithson
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Discusión sobre la película _[Hombres armados](http://www.imdb.com/title/tt0119657/)._ Directed by John Sayles. 1997. Sony Classics. DVD. 
+Discusión sobre la película _{{% resource_link "a5a3242c-e5f0-4b3e-8604-699f13f672d0" "Hombres armados" %}}._ Directed by John Sayles. 1997. Sony Classics. DVD. 
 {{< tdclose >}}
 
 {{< trclose >}}
